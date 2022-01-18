@@ -1,0 +1,14 @@
+target/
+!**/src/main/**
+!**/src/test/**
+.mvn
+mvnw.cmd
+mvnw
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+
